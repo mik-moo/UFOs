@@ -30,6 +30,7 @@ The table may be filtered on one or more criteria by entering text into each sea
   
   
 ## Summary
+### Function and Recommendations
   
 Overall the webpage is user friendly, but one draw back that is evident when performing a search is that the user must refresh the page in order to reset any of the filters that were in place if they wish to change them.  Based on that, one recommendation would be to add a "clear filters" button.  
 
